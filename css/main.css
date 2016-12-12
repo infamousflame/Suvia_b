@@ -36,11 +36,34 @@ h1{
   margin: 0 auto;
 
 }
+
+header{
+  height: 100vh;
+}
+
+.down{
+  text-align: center;
+}
+
+.fa-arrow-down{
+  font-size: 34px;
+  color: black;
+  margin-top:130px;
+}
+
+nav img{
+  width: 40px;
+  position: fixed;
+  top: 10%;
+  left: 5%;
+  border: 1px solid #00a8df;
+  border-radius: 100px;
+  padding:5px;
+}
 /*header end*/
 
 /*green start*/
 .green{
-  margin-top: 100px;
   background-color: #a2c439;
   padding: 100px 0;
 }
